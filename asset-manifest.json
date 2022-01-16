@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eBikes-singlePage-React/static/css/main.057c41d8.css",
+    "main.js": "/eBikes-singlePage-React/static/js/main.a69e2294.js",
+    "static/js/787.3ee8ce44.chunk.js": "/eBikes-singlePage-React/static/js/787.3ee8ce44.chunk.js",
+    "static/media/juniper.jpeg": "/eBikes-singlePage-React/static/media/juniper.157469793083d4660432.jpeg",
+    "static/media/festiva.jpeg": "/eBikes-singlePage-React/static/media/festiva.b868612a1c7df8aa0eb0.jpeg",
+    "index.html": "/eBikes-singlePage-React/index.html",
+    "main.057c41d8.css.map": "/eBikes-singlePage-React/static/css/main.057c41d8.css.map",
+    "main.a69e2294.js.map": "/eBikes-singlePage-React/static/js/main.a69e2294.js.map",
+    "787.3ee8ce44.chunk.js.map": "/eBikes-singlePage-React/static/js/787.3ee8ce44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057c41d8.css",
+    "static/js/main.a69e2294.js"
+  ]
+}
